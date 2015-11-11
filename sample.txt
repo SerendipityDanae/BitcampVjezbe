@@ -2,4 +2,4 @@ Hello World!
 
 ovo je sa development brach-a!
 
-sa druge masine!!!
+sa druge nije nego sa prvemasine!!!
